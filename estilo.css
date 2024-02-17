@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: cornflowerblue;
+    color: white;
+    font-weight: bold;
+    height: 3rem;
+    text-align: center;
+    font-size: xx-large;
+}
+h1{
+    background-color: gray;
+}
+#text{
+    background-color: black;
+    color: white;
+    display: inline;
+}
+a{
+   text-decoration: none;
+}
+img{
+    border: 1px solid black;
+    box-shadow: 20px 20px 5px gray;
+}
+footer{
+    padding-top: 5rem;
+}
